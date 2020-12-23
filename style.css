@@ -1,0 +1,108 @@
+html {
+    background: url(images/backgroundimg.png) no-repeat center center fixed;
+    /* background-image: url("images/backgroundimg.png"); */
+    /* background-repeat: no-repeat; Do not repeat the image */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; /* Resize the background image to cover the entire container
+    /* background-attachment: fixed; */ 
+    background-repeat: no-repeat; 
+
+}
+
+/* Top header */
+
+.topheader {
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    grid-template-rows: auto;
+    grid-gap: 500px;
+    align-items: start;
+    /* justify-items: end; */
+}
+
+.cure {
+    display: grid;
+    justify-items: center;
+}
+
+.navigation {
+    display: grid;
+    /* align-items: end; */
+    grid-template-columns: auto auto auto auto auto auto;
+    /* grid-gap: 0px; */
+    /* grid-template-rows: 50px 50px 50px 50px 50px 50px; */
+    justify-items: end;
+    /* justify-content: end;
+    align-items: start; */
+}
+
+.center {
+    display: grid;
+    justify-items: center;
+}
+
+/* Bottom header */
+
+.bottomheader {
+    display: grid;
+    /* grid-gap: 50px; */
+    margin-bottom: 50px;
+    /* align-items: center; */
+    justify-items: center;
+}
+
+.options {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 40px;
+    justify-items: center;
+}
+
+/* .buttonhome {
+    height: 60px;
+    width: 400px;
+} */
+
+/* MAIN */
+
+main {
+    display: grid;
+    grid-gap: 14px;
+    /* justify-items: center; */
+}
+
+.product{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+}
+
+.image_prod {
+    height: 500px;
+    width: 500px;
+}
+
+/* .donate {
+    text-align: center;
+    color: white;
+    background-color: blue;
+    height: 60px;
+    width: 400px;
+    font-size: 35px;
+} */
+
+
+/* Common */
+
+button {
+    text-align: center;
+    color: white;
+    background-color:blue;
+    height: 60px;
+    width: 400px;
+    font-size: 30px;
+    border: none;
+}
+
