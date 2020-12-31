@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CraigPaulSite/static/css/main.5f65611d.chunk.css",
+    "main.js": "/CraigPaulSite/static/js/main.dde9f97d.chunk.js",
+    "main.js.map": "/CraigPaulSite/static/js/main.dde9f97d.chunk.js.map",
+    "runtime-main.js": "/CraigPaulSite/static/js/runtime-main.95965a97.js",
+    "runtime-main.js.map": "/CraigPaulSite/static/js/runtime-main.95965a97.js.map",
+    "static/js/2.20e1b342.chunk.js": "/CraigPaulSite/static/js/2.20e1b342.chunk.js",
+    "static/js/2.20e1b342.chunk.js.map": "/CraigPaulSite/static/js/2.20e1b342.chunk.js.map",
+    "static/js/3.43193fbc.chunk.js": "/CraigPaulSite/static/js/3.43193fbc.chunk.js",
+    "static/js/3.43193fbc.chunk.js.map": "/CraigPaulSite/static/js/3.43193fbc.chunk.js.map",
+    "index.html": "/CraigPaulSite/index.html",
+    "static/css/main.5f65611d.chunk.css.map": "/CraigPaulSite/static/css/main.5f65611d.chunk.css.map",
+    "static/js/2.20e1b342.chunk.js.LICENSE.txt": "/CraigPaulSite/static/js/2.20e1b342.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/CraigPaulSite/static/media/backgroundimg.9267f9c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95965a97.js",
+    "static/js/2.20e1b342.chunk.js",
+    "static/css/main.5f65611d.chunk.css",
+    "static/js/main.dde9f97d.chunk.js"
+  ]
+}
